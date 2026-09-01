@@ -1,0 +1,35 @@
+.mary{
+    color: orange;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul{
+    display: flex;
+    gap: 50px;
+}
+header{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.button{
+    background-color: #fd6e0a;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    padding-inline: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.contract{
+    background-color: white;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 2px;
+    border-color: #fd6e0a;
+}
